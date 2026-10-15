@@ -6,9 +6,8 @@
 
 | Файл | Содержание |
 |---|---|
-| [BMSTU_LB_1.cpp](BMSTU_LB_1.cpp) | Часть 1 |
-| [BMSTU_LB_2.cpp](BMSTU_LB_2.cpp) | Часть 2 |
-
+| Часть 1 | [BMSTU_LB_1.cpp](BMSTU_LB_1.cpp) | 
+| Часть 2 | [BMSTU_LB_2.cpp](BMSTU_LB_2.cpp) | 
 ## Часть 1. Операторы языка C++
 
 ### Цель работы
